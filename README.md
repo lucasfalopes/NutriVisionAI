@@ -72,13 +72,13 @@ python app.py
 ```
 
 ## 📚 Referências
-BLIP-Image-Captioning-Large: Hugging Face[https://huggingface.co/Salesforce/blip-image-captioning-large]
-LLama3.2-Vision: Modelo LLama Vision[https://github.com/meta-llama/llama-models]
+- BLIP-Image-Captioning-Large: [Hugging Face](https://huggingface.co/Salesforce/blip-image-captioning-large)
+- LLama3.2-Vision: [Modelo LLama Vision](https://github.com/meta-llama/llama-models)
 
 ## 📧 Contato
-Criador: Lucas Lopes
-Email: lucasfalopes66@gmail.com
-LinkedIn: Lucas Lopes
+- Criador: Lucas Lopes
+- Email: lucasfalopes66@gmail.com
+- LinkedIn: Lucas Lopes
 
 ## 🌟 Agradecimentos
 Obrigado por conferir o NutriVision! Estamos ansiosos para ajudar você a entender melhor seus pratos e fazer escolhas mais saudáveis. 🍎
